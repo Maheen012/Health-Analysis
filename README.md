@@ -85,15 +85,12 @@ To run this analysis, ensure Python and the following libraries are installed:
 - seaborn  
 - matplotlib  
 
-You can install the required libraries using pip.  
-
 ---
 
 ## Usage  
 1. Download the dataset from the [source link](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).  
 2. Place the `Sleep_health_and_lifestyle_dataset.csv` file in your project directory.  
-3. Run the script in a Python environment (Jupyter Notebook, PyCharm, etc.).  
-4. Modify the script to explore additional insights or visualizations.  
+3. Run the script in a Python environment.  
 
 ---
 
