@@ -36,12 +36,14 @@ The primary goals of this analysis are:
 ### Gender Distribution  
 - A count plot was generated to show the distribution of males and females in the dataset.  
 - This visualization provided insights into the gender balance, which was essential for subsequent gender-based analysis.  
+![Graph 1](Graphs/Gender-Distribution-Fig2.png)
 
 ---
 
 ### BMI Distribution  
 - A pie chart was created to display the proportion of individuals across different BMI categories: **Normal Weight**, **Overweight**, and **Obese**.  
 - This chart highlighted the prevalence of obesity and other BMI categories in the dataset.  
+![Graph 2](Graphs/BMI-Distribution-Fig3.png)
 
 ---
 
@@ -49,12 +51,14 @@ The primary goals of this analysis are:
 - A bar chart was generated to visualize the average stress levels across different occupations, separated by gender.  
 - The results showed how stress levels varied by gender for specific professions like Doctors, Engineers, and Sales Representatives.  
 - Males exhibited higher stress levels compared to females across most occupations.  
+![Graph 3](Graphs/Stress-Levels-Fig4.png)
 
 ---
 
 ### Heart Rate by BMI  
 - A line chart was created to visualize the relationship between BMI categories and average heart rate.  
 - The trend revealed that individuals with higher BMI values (e.g., Obese) had significantly higher heart rates compared to those in the Normal Weight or Overweight categories.  
+![Graph 3](Graphs/Heart-Rate-BMI-Fig5.png)
 
 ---
 
