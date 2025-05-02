@@ -98,8 +98,7 @@ To run this analysis, ensure Python and the following libraries are installed:
 
 ## Usage  
 1. Download the dataset from the [source link](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).  
-2. Place the `Sleep_health_and_lifestyle_dataset.csv` file in your project directory.  
-3. Run the script in a Python environment.  
+2. Run the script in a Python environment.  
 
 ---
 
