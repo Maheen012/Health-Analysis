@@ -33,6 +33,11 @@ The primary goals of this analysis are:
 
 ## Visualizations  
 
+### Occupation Distribution  
+- A bar plot was created to display the distribution of occupations within the dataset. 
+- This visualization helped identify which professions were most represented, providing important context for analyzing how stress levels may vary across different career paths.
+![Graph 0](Graphs/Occupation-Distribution-Fig1.png)
+
 ### Gender Distribution  
 - A count plot was generated to show the distribution of males and females in the dataset.  
 - This visualization provided insights into the gender balance, which was essential for subsequent gender-based analysis.  
